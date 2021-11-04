@@ -71,6 +71,9 @@ local.properties
 /target/
 .flattened-pom.xml
 
+#not only root but anywhere target or log directory
+target/
+log/
 ######################
 # Gradle
 ######################
