@@ -12,7 +12,7 @@
     <artifactId>converters</artifactId>
 
     <properties>
-        <mapstruct.version>1.2.0.Final</mapstruct.version>
+        <mapstruct.version>1.4.2.Final</mapstruct.version>
     </properties>
 
     <dependencies>
