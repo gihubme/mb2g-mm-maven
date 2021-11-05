@@ -1,3 +1,6 @@
-# Apache Maven: Beginner to Guru
+### Generate sources for rest-api
 
-This respository contains code examples for the online course [Apache Maven: Beginner to Guru.](https://www.udemy.com/draft/2043700/?couponCode=GITHUB_REPO)
+- Create module for entities
+- Create module for web-api with given schemas (xsml or json)
+- Create module for conversion btw entities and dto(s)
+- Create module for web-app with controllers
